@@ -263,7 +263,6 @@ a:hover {
 
 #bloc-1-hero h1 {
     font-size: 32px;
-    color: #333333!important;
 }
 
 .navbar {
@@ -626,7 +625,6 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
     color: #575757!important;
 }
 
