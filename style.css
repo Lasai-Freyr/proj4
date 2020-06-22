@@ -651,7 +651,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -679,7 +679,7 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 18px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -980,6 +980,14 @@ h3 {
         width: 180px;
         height: 320px;
     }
+}
+
+blockquote{
+    margin-bottom: 0em;
+}
+
+article{
+    margin-bottom: 20px;
 }
 
 @media (max-width: 400px) {
