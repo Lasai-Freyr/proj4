@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lasai-freyr.github.io/proj4/index.html/sitemap.xml
+Sitemap: https://lasai-freyr.github.io/proj4/sitemap.xml
