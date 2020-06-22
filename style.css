@@ -786,6 +786,18 @@ h3 {
     background-image: url("img/image-de-presentation-compressor.jpg");
 }
 
+blockquote{
+    margin-bottom: 0em;
+}
+
+article{
+    margin-bottom: 20px;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -980,14 +992,6 @@ h3 {
         width: 180px;
         height: 320px;
     }
-}
-
-blockquote{
-    margin-bottom: 0em;
-}
-
-article{
-    margin-bottom: 20px;
 }
 
 @media (max-width: 400px) {
