@@ -120,7 +120,7 @@ a:hover {
 .d-bloc h2 a,
 .d-bloc h3 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(255, 255, 255, 0.6);
 }
 
 .d-bloc .a-btn:hover,
@@ -504,7 +504,7 @@ button {
 }
 
 .showScrollTop {
-    font-size: 14px;
+    font-size: 16px;
     opacity: 1;
 }
 
