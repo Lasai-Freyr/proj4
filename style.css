@@ -700,10 +700,6 @@ h3 {
     color: #FFFFFF!important;
 }
 
-.portfolio-thumb {
-    margin-bottom: 24px;
-}
-
 .portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
@@ -792,6 +788,13 @@ blockquote{
 
 article{
     margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+article img{
+    margin: auto;
 }
 
 .underline{
